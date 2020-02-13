@@ -1,6 +1,6 @@
 {
-  "name": "worker-plugin",
-  "version": "3.2.0",
+  "name": "worker-plugin-shared",
+  "version": "3.2.1",
   "description": "Webpack plugin to bundle Workers automagically.",
   "main": "dist/worker-plugin.js",
   "repository": "GoogleChromeLabs/worker-plugin",
